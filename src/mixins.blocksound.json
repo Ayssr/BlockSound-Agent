@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "wtf.tatp.blocksound.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixins.blocksound.refmap.json",
+  "mixins": [
+    "MixinPlayerControllerMP",
+    "MixinEntityPlayerSP"
+  ]
+}
